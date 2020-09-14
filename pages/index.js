@@ -23,13 +23,13 @@ const Home = ({ allPostsData }) => {
       </Head>
       <section className={utilStyles.headingMd}>
 
-        <p>I'm Vincent - 
+        <p>Hey there, I'm Vincent - 
         </p>
 
-        <p>A tech lover, software engineer, and travel enthusiast who builds tools for humans and is passionate about democratizing education. 🥳
+        <p>A tech lover, travel & fitness enthusiast, and also a major foodie. I created this blog help me keep track of my thoughts, learnings, and feelings while starting a software engineering rotational position - a major career shift for me!
         </p>
 
-        <p>You can contact me on <a href="https://www.linkedin.com/in/vincentvinnybattaglia/">LinkedIn</a> or simply drop me a line on <a href="https://t.me/vbattaglia">Telegram</a> to discuss working together.
+        <p>I'd love to connect with fellow devs and techies: <a href="https://www.linkedin.com/in/vincentvinnybattaglia/">LinkedIn</a> or simply drop me a line on <a href="https://t.me/vbattaglia">Telegram</a>.
         </p>
         <p><i>Talk is cheap. Show me the code.  - Linus Torvalds</i>
         </p>
