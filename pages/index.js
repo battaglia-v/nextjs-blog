@@ -26,10 +26,12 @@ const Home = ({ allPostsData }) => {
         <p>Hey there, I'm Vincent - 
         </p>
 
-        <p>A tech lover, travel & fitness enthusiast, and also a major foodie. I created this blog help me keep track of my thoughts, learnings, and feelings while starting a software engineering rotational position - a major career shift for me!
+        <p>a tech lover, travel/fitness enthusiast, and also a major foodie. 🥐</p>
+        
+        <p>I created this blog help me keep track of my thoughts, learnings, and feelings while starting a software engineering rotational position - a major career shift for me!
         </p>
 
-        <p>I'd love to connect with fellow devs and techies: <a href="https://www.linkedin.com/in/vincentvinnybattaglia/">LinkedIn</a> or simply drop me a line on <a href="https://t.me/vbattaglia">Telegram</a>.
+        <p>I'd love to connect with fellow SE's and (of course) aspiring developers: <a href="https://www.linkedin.com/in/vincentvinnybattaglia/">LinkedIn</a> or simply drop me a line on <a href="https://t.me/vbattaglia">Telegram</a>.
         </p>
         <p><i>Talk is cheap. Show me the code.  - Linus Torvalds</i>
         </p>
