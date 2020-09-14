@@ -1,6 +1,6 @@
 ---
 title: 'Week One: '
-date: '2020-09-12'
+date: '2020-09-13'
 ---
 
 I sit here on Sunday evening reflecting on the past week - my first _full_ week as a Software Development Engineer on the Traffic Engineering, **a.k.a.** the Edge Team at Expedia Group. 
